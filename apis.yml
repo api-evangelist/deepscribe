@@ -1,0 +1,96 @@
+aid: deepscribe
+name: DeepScribe
+description: >-
+  DeepScribe is a San Francisco, California ambient AI medical scribe
+  company that automates clinical documentation and coding for specialty
+  healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko,
+  Kairui Zeng, and Akilesh Bapu, DeepScribe captures the natural
+  conversation between clinician and patient and produces structured
+  clinical notes inside the provider's existing EHR workflow. The platform
+  is HIPAA-compliant and is deployed across more than 1,500 healthcare
+  organizations, with reported traction of 8 million+ visits captured and
+  a 99.92% note-satisfaction rating. Core products include the AI Medical
+  Scribe (ambient documentation), SmartPrep (pre-visit intelligence), AI
+  Coding (E/M, ICD-10, and HCC automation), Customization Studio
+  (provider-specific note personalization), and DeepScribe Assist
+  (point-of-care insights). DeepScribe ships bi-directional EHR
+  integrations with Epic, athenahealth, eClinicalWorks, NextGen,
+  AdvancedMD, drchrono, ModMed, Flatiron (OncoEMR), Ontada (iKnowMed
+  Generation 2), and Objective Medical Systems, with a focused practice
+  in oncology, cardiology, gastroenterology, neurology, orthopedics,
+  urology, and value-based care. The company partners with AWS, Anthropic,
+  Deloitte, and Panda Health for infrastructure, model, and
+  go-to-market support. DeepScribe is sold as enterprise SaaS through a
+  contact-sales motion; there is no public developer API, SDK, or
+  open-source release, and authentication into the clinician workspace
+  happens through canvas.deepscribe.ai.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Healthcare
+  - Clinical Documentation
+  - Medical Scribe
+  - Ambient AI
+  - Speech Recognition
+  - Medical Coding
+  - HIPAA
+  - EHR Integration
+  - Oncology
+  - Cardiology
+  - Value Based Care
+  - Enterprise SaaS
+url: https://raw.githubusercontent.com/api-evangelist/deepscribe/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.deepscribe.ai
+  - type: Platform
+    url: https://www.deepscribe.ai/platform/ai-clinical-documentation-software
+  - type: AIMedicalScribe
+    url: https://www.deepscribe.ai/solutions/ai-medical-scribe
+  - type: SmartPrep
+    url: https://www.deepscribe.ai/solutions/smartprep
+  - type: AICoding
+    url: https://www.deepscribe.ai/solutions/ai-coding
+  - type: CustomizationStudio
+    url: https://www.deepscribe.ai/solutions/customization-studio
+  - type: EHRIntegrations
+    url: https://www.deepscribe.ai/ehr-integrations
+  - type: Specialties
+    url: https://www.deepscribe.ai/specialties
+  - type: Customers
+    url: https://www.deepscribe.ai/categories/customers
+  - type: About
+    url: https://www.deepscribe.ai/about
+  - type: Blog
+    url: https://www.deepscribe.ai/categories/blog
+  - type: News
+    url: https://www.deepscribe.ai/categories/news
+  - type: Research
+    url: https://www.deepscribe.ai/categories/research-and-whitepapers
+  - type: TrustCenter
+    url: https://trust.deepscribe.ai
+  - type: Privacy
+    url: https://www.deepscribe.ai/privacy
+  - type: TermsOfService
+    url: https://www.deepscribe.ai/terms
+  - type: SignIn
+    url: https://canvas.deepscribe.ai
+  - type: Contact
+    url: https://www.deepscribe.ai/contact
+  - type: Careers
+    url: https://www.deepscribe.ai/careers
+  - type: Twitter
+    url: https://twitter.com/DeepScribeAI
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/deepscribe
+  - type: Facebook
+    url: https://www.facebook.com/DeepScribeAI
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
