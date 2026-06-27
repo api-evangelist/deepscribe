@@ -79,7 +79,7 @@ common:
     url: https://www.deepscribe.ai/privacy
   - type: TermsOfService
     url: https://www.deepscribe.ai/terms
-  - type: SignIn
+  - type: Login
     url: https://canvas.deepscribe.ai
   - type: Contact
     url: https://www.deepscribe.ai/contact
