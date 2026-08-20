@@ -50,6 +50,19 @@ tags:
   - EHR Integration
   - Oncology
   - Cardiology
+  - Value-Based Care
+  - Enterprise Saas
+tags_raw:
+  - Healthcare
+  - Clinical Documentation
+  - Medical Scribe
+  - Ambient AI
+  - Speech Recognition
+  - Medical Coding
+  - HIPAA
+  - EHR Integration
+  - Oncology
+  - Cardiology
   - Value Based Care
   - Enterprise SaaS
 url: https://raw.githubusercontent.com/api-evangelist/deepscribe/refs/heads/main/apis.yml
